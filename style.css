@@ -659,6 +659,43 @@ header.sticky{
         padding: 20px;
       }
 
+      .col img{
+        margin-left: 12px;
+    }  
+
     
     
+}
+
+@media (min-width: 430px){
+    .row{
+        margin-right: 20px;
+        
+    }
+    .row h3{
+        padding:20px;
+        
+    }
+    .row h5{
+        margin-left:19px;
+        margin-bottom:10px;
+        
+    }
+
+    .row p{
+        padding:5px;
+        margin-bottom:2px
+    }
+
+    .home-text{
+        padding: 20px;
+      }
+
+    .heading p{
+        padding: 10px;
+    }  
+
+    .col img{
+        margin-left: 12px;
+    }
 }
