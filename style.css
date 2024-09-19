@@ -725,3 +725,12 @@ header.sticky{
 
     
 }
+
+@media (min-width: 412px){
+    .row{
+        margin-right: 31px;
+        
+    }
+
+    
+}
