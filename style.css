@@ -704,4 +704,13 @@ header.sticky{
     .home-text h5{
          margin: 15px;
     }
+
+    
+}
+
+@media (min-width: 390px){
+    .row{
+        margin-right: 53px;
+        
+    }
 }
