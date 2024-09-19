@@ -699,3 +699,9 @@ header.sticky{
         margin-left: 12px;
     }
 }
+
+@media (min-width: 390px){
+    .home-text h5{
+         margin: 15px;
+    }
+}
