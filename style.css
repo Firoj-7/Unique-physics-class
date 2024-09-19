@@ -713,4 +713,15 @@ header.sticky{
         margin-right: 53px;
         
     }
+
+    
+}
+
+@media (min-width: 414px){
+    .row{
+        margin-right: 30px;
+        
+    }
+
+    
 }
