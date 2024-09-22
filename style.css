@@ -792,6 +792,15 @@ footer {
     text-align: center;
     color: #f9f9f9;
   }
+
+  @media (min-width: 412px){
+    footer article h2{
+        margin-top: 13px;
+    }
+    
+  }
+
+
   
   footer article button {
     display: flex;
@@ -871,6 +880,7 @@ footer {
   
     footer article h2 {
       font-size: 24px;
+      
     }
   
     footer section {
@@ -963,4 +973,6 @@ footer {
       }
   }
 
-  
+  .foot{
+    gap: 5vw;
+  }
