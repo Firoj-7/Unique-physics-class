@@ -254,6 +254,12 @@ span{
     line-height: 24px;
     border-radius: 30px;
 }
+.contbtn:hover{
+  transform:scale(1.1);
+  background: #08bd3b;
+  color: var(--bg-color);
+  transition: .5s;
+}
 
 .home-img img{
     max-width: 100%;
