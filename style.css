@@ -244,6 +244,17 @@ span{
     background: #0b59c8;
 }
 
+.contbtn{
+  display: inline-block;
+    color: var(--main-color);
+    background:var(--bg-color);
+    font-size: var(--p-font);
+    padding: 10px 40px;
+    font-weight: 500;
+    line-height: 24px;
+    border-radius: 30px;
+}
+
 .home-img img{
     max-width: 100%;
     width: 500px;
